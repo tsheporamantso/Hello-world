@@ -40,7 +40,7 @@
 
 
 
-**[your_project__name]** is a simple message for linters practice
+**[Hello Microverse]** is a simple message for linters practice
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -94,7 +94,6 @@
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
 
 
 To get a local copy up and running, follow these steps.
@@ -218,10 +217,9 @@ Feel free to check the [issues page](../../issues/).
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
+ 
 
 If you like this project follow me on github and also connect on linkedin.
-
-If you like this project...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
