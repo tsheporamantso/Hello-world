@@ -34,19 +34,19 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+# 📖 [Hello Microverse] <a name="about-project"></a>
 
-**[your_project__name]** is a...
+
+
+**[your_project__name]** is a simple message for linters practice
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+
 
 <details>
   <summary>Client</summary>
@@ -73,7 +73,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+
 
 - **[key_feature_1]**
 - **[key_feature_2]**
@@ -85,7 +85,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
+
 
 - [Live Demo Link](https://yourdeployedapplicationlink.com)
 
@@ -95,14 +95,14 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
+
 
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
-
+A code compiler like Visual Studio Code
 <!--
 Example command:
 
@@ -115,6 +115,7 @@ Example command:
 
 Clone this repository to your desired folder:
 
+Use git clone command to clone this repository or download ZIP
 <!--
 Example commands:
 
@@ -128,6 +129,7 @@ Example commands:
 
 Install this project with:
 
+npm
 <!--
 Example command:
 
@@ -141,6 +143,7 @@ Example command:
 
 To run the project, execute the following command:
 
+npm start or live server
 <!--
 Example command:
 
@@ -153,6 +156,7 @@ Example command:
 
 To run tests, run the following command:
 
+npm test
 <!--
 Example command:
 
@@ -179,19 +183,14 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
-👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Gladwin**
 
-👤 **Author2**
+- GitHub: [@tsheporamantso](https://github.com/tsheporamantso)
+- Twitter: [@ramgt001](https://twitter.com/home)
+- LinkedIn: [Tshepo Gladwin Ramantso](https://www.linkedin.com/in/tshepo-ramantso-b6a35433/)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -199,7 +198,6 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[new_feature_1]**
 - [ ] **[new_feature_2]**
@@ -221,7 +219,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
+If you like this project follow me on github and also connect on linkedin.
 
 If you like this project...
 
@@ -231,9 +229,9 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+
+I would like to thank Microverse for linter practice project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
